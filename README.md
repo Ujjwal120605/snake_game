@@ -17,7 +17,7 @@ A classic **Snake Game** built using **HTML, CSS, and JavaScript**. The game inc
 ## 🚀 Live Demo
 
 Open the game in your browser locally at:
-[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+[[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)](https://ujjwal120605.github.io/snake_game/)
 
 ---
 
